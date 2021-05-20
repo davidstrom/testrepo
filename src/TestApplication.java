@@ -4,5 +4,6 @@ public class TestApplication {
         System.out.println("This is a test!");
         String s = "a new String";
         System.out.println("A str");
+        System.out.println("Something else!");
     }
 }
